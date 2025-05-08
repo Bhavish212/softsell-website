@@ -6,7 +6,7 @@ A modern, single-page responsive React landing site for a fictional software res
 
 ## 🚀 Live Demo
 
-[Add your Netlify/Vercel URL here]
+(https://softsell-website.netlify.app/)
 
 ---
 
